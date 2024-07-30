@@ -58,7 +58,7 @@ Code Sync is a web application designed to provide a collaborative code editor w
 ![Code Sync Editor](public/Editor.png)
 
 ## Live Demo
-Check out the live dem of Code Sync: [here](https://github.com/Kundan10424/Realtime-Editor).
+Check out the live demo of Code Sync: [here](https://github.com/Kundan10424/Realtime-Editor).
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
